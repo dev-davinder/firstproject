@@ -1,0 +1,11 @@
+        {/* <img className='w-20 absolute top-0 h-16 overflow-hidden' src="/logo.jpg" alt="" />
+        <ul className='flex pt-1 flex-row absolute top-5 text-pink-600 font-bold font-serif right-5'>
+            <li className='pl-8 '><a href='/'>Home</a></li>
+            <li className='pl-8 '><a href='/'>About</a></li>
+            <li className='pl-8 '><a href='/'>Services</a></li>
+            <li className='pl-8 '><a href='/'>Carrer</a></li>
+            <li className='pl-8 '><a href='/'>Contact</a></li>
+        </ul> */}
+        <h1 className="absolute text-5xl  top-10 font-mono w-1/2  font-bold text-yellow-900"></h1>
+
+<h5 className=" text-xl text-yellow-300 font-mono" >The #1 Dev Team Collaborative Tool In a Country</h5>
